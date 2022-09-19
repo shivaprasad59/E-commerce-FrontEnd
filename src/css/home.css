@@ -1,0 +1,13 @@
+
+.carousel-item{
+    min-height: 500px;
+}
+
+.carousel-inner{
+    min-width: 50rem;
+}
+.carouselExampleIndicators{
+    padding-bottom: 10rem;
+}
+
+
